@@ -51,5 +51,5 @@ if __name__ == "__main__":
     f = open("F:/Nand's Work Folder - DO NOT OPEN/heroku/Python/image watermark/demofile2.txt", "w")
     f.write(str(out_string))
     f.close()
-    out_img = decode_img(out_string)
-    out_img.show()
+    # out_img = decode_img(out_string)
+    # out_img.show()
